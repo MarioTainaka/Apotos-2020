@@ -10,6 +10,8 @@ add cmn200.ar.00
 add cmn200.arl
 add MYK_Sound.ar.00
 add MYK_Sound.arl
-#euc200.ar.00
-#euc200.arl
+add #euc200.ar.00
+add #euc200.arl
+add #pam000.ar.00
+add #pam000.arl
 
