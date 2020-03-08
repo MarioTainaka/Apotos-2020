@@ -1,4 +1,7 @@
 
+## Apotos Adventure Pack 2.0.8
+- Added Guillotine/Pendulum Sound and Crushing Floor sounds for all stages that use these objects.
+
 ## Apotos Adventure Pack 2.0.7
 
 - Fixed ambience Sound in Hub World the hub world now uses the correct cue.
