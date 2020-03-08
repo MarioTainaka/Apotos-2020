@@ -1,3 +1,7 @@
+## Apotos Adventure Pack 2.0.9
+- Fix a glitch where the music in Act 1 wouldn't play because the Audio Memory Limit was reached
+
+
 
 ## Apotos Adventure Pack 2.0.8
 - Added Guillotine/Pendulum Sound and Crushing Floor sounds for all stages that use these objects.
