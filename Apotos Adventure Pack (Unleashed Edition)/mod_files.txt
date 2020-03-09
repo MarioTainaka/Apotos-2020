@@ -1,4 +1,4 @@
-add mods/mod.ini
+add mod.ini
 add disk/bb/#ghz200.ar.00
 add disk/bb/#ghz200.arl
 add disk/bb/#ssz200.ar.00
