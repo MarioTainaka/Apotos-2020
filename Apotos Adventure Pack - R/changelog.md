@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 2.1.1
+
+-Reverted Changes to Archive Tree. The Main Mod Breaks Otherwise.
+
+
 ## Apotos Adventure Pack 2.1.0
 - Fixed the first section of Act 2-2 displaying wrong button prompt (should've been X instead of B).
 - Added SU-like wall-jump physics, exclusively to Act 2-2.
