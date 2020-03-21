@@ -1,3 +1,11 @@
+
+## Apotos Adventure Pack 2.1.2
+
+-Fixed missing objects in Act 2-2 Of The Main Mod
+
+
+
+
 ## Apotos Adventure Pack 2.1.1
 
 -Reverted Changes to Archive Tree. The Main Mod Breaks Otherwise.
