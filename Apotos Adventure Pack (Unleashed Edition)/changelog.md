@@ -1,3 +1,7 @@
+## Apotos Unleashed Edition 1.0.4
+- Added Act 2 and its StageGate from HUB.
+
+
 ## Apotos Unleashed Edition 1.0.3
 - Fixed the first section of Act 2-2 displaying wrong button prompt (should've been X instead of B).
 - Restored Sonic Team logo (pls drop the "Logo_MYK_Int.sfd" to "movie" folder).
@@ -12,5 +16,4 @@
 
 
 ## Apotos Unleashed Edition 1.0
-
 - Initial Release. 
