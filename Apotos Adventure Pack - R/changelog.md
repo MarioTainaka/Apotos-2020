@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 2.1.5
+
+- Modified bb2.ini so that Act 2 actually appears in-game now.
+
+
 ## Apotos Adventure Pack 2.1.4
 
 - Replaced #Application.ar.00 since it has fixes for missing objects in Act 2
