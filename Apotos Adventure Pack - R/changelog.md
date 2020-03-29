@@ -1,3 +1,7 @@
+## Apotos Adventure Pack 2.1.4
+
+- Replaced #Application.ar.00 since it has fixes for missing objects in Act 2
+
 
 ## Apotos Adventure Pack 2.1.3
 
@@ -6,8 +10,6 @@
 ## Apotos Adventure Pack 2.1.2
 
 -Fixed missing objects in Act 2-2 Of The Main Mod
-
-
 
 
 ## Apotos Adventure Pack 2.1.1
