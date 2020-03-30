@@ -10,6 +10,14 @@ add cmn200.ar.00
 add cmn200.arl
 add MYK_Sound.ar.00
 add MYK_Sound.arl
+add #cte200.ar.00
+add #cte200.arl
+add #ghz100.ar.00
+add #ghz100.arl
+add #ghz200.ar.00
+add #ghz200.arl
+add #ssz200.ar.00
+add #ssz200.arl
 add #euc200.ar.00
 add #euc200.arl
 add #pam000.ar.00
