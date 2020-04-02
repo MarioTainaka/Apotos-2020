@@ -1,3 +1,9 @@
+## Apotos Adventure Pack 2.1.7
+
+- Fixed Act 2 missing platform model
+- Removed unused lines from EnemyArchiveTree of #Application.ar.00
+
+
 ## Apotos Adventure Pack 2.1.6
 
--Added Some Things For The Final Revision Of The Main Mod
+- Added Some Things For The Final Revision Of The Main Mod
