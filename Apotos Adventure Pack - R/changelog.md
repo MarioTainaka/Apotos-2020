@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 2.1.8
+
+- Added guillotine sound back for Act 1-2
+
+
 ## Apotos Adventure Pack 2.1.7
 
 - Fixed Act 2 missing platform model
