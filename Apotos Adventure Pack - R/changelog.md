@@ -1,3 +1,7 @@
+## Apotos Adventure Pack 2.1.9
+
+- Removed Unleashed specific objects in Act 1-2
+
 ## Apotos Adventure Pack 2.1.8
 
 - Added guillotine sound back for Act 1-2

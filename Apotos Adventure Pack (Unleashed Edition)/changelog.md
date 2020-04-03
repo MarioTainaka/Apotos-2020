@@ -1,4 +1,9 @@
+## Apotos Unleashed Edition 1.0.8
+
+- Fixed an OutOfControl problem in Act 1-2
+
 ## Apotos Unleashed Edition 1.0.7
+
 - Moved Physics File To bb3 
 - Increased Update Size String To Avoid Issues
 
