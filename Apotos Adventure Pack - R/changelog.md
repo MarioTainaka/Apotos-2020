@@ -1,7 +1,14 @@
 
+
+
+## Apotos Adventure Pack 3.0
+
+- Added Stage Gate Act Numbers
+
 ## Apotos Adventure Pack 2.1.9
 
--Added Stage Gate Act Numbers
+- Removed Unleashed specific objects in Act 1-2
+
 
 ## Apotos Adventure Pack 2.1.8
 
