@@ -1,3 +1,8 @@
+## Apotos Unleashed Edition 1.0.9
+
+- Ported Hammer Model/Sound From Sonic Unleashed
+
+
 ## Apotos Unleashed Edition 1.0.8
 
 - Fixed an OutOfControl problem in Act 1-2
