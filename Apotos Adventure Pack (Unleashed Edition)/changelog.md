@@ -1,6 +1,12 @@
+## Apotos Unleashed Edition 2.0.1
+
+- Added new Stage Gate objects at hub
+
+
 ## Apotos Unleashed Edition 2.0
 
 - Fixed Damage Sound For The Hammer
+
 
 ## Apotos Unleashed Edition 1.0.9
 
@@ -11,6 +17,7 @@
 
 - Fixed an OutOfControl problem in Act 1-2
 
+
 ## Apotos Unleashed Edition 1.0.7
 
 - Moved Physics File To bb3 
@@ -20,6 +27,7 @@
 ## Apotos Unleashed Edition 1.0.6
 
 - Fixed a platform in Act 2 that was not moving
+
 
 ## Apotos Unleashed Edition 1.0.5
 

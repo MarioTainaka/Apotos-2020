@@ -1,9 +1,13 @@
+# Apotos Adventure Pack 3.0.1
 
+- Added new Stage Gate Objects at hub
+(Act 2 itself will be added later once the layout redesign is done)
 
 
 ## Apotos Adventure Pack 3.0
 
 - Added Stage Gate Act Numbers
+
 
 ## Apotos Adventure Pack 2.1.9
 
