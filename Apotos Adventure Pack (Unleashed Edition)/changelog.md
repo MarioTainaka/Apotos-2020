@@ -1,3 +1,7 @@
+## Apotos Unleashed Edition 2.0
+
+- Fixed Damage Sound For The Hammer
+
 ## Apotos Unleashed Edition 1.0.9
 
 - Ported Hammer Model/Sound From Sonic Unleashed
