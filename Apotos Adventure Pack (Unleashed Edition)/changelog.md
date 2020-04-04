@@ -1,3 +1,7 @@
+## Apotos Unleashed Edition 2.0.4
+- Potential Fixed For The Hammer Sound Killing Common Gameplay Sounds (Glitch Is Still Caused By The Flame Sound)
+
+
 ## Apotos Unleashed Edition 2.0.1
 
 - Added new Stage Gate objects at hub
