@@ -20,6 +20,8 @@ add #ghz200.ar.00
 add #ghz200.arl
 add #ssz200.ar.00
 add #ssz200.arl
+add #csc200.ar.00
+add #csc200.arl
 add #euc200.ar.00
 add #euc200.arl
 add #pam000.ar.00

@@ -1,3 +1,8 @@
+# Apotos Adventure Pack 3.0.2
+
+- Added Act 2 with Generations style layout at the request of the leader
+
+
 # Apotos Adventure Pack 3.0.1
 
 - Added new Stage Gate Objects at hub
