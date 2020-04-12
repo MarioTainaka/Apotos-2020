@@ -1,4 +1,10 @@
+## Apotos Unleashed Edition 2.0.5
+
+- ThornBalls in Act 1-2 now cast shadows properly
+
+
 ## Apotos Unleashed Edition 2.0.4
+
 - Potential Fixed For The Hammer Sound Killing Common Gameplay Sounds (Glitch Is Still Caused By The Flame Sound)
 
 

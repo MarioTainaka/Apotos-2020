@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 3.0.3
+
+- ThornBalls in Act 1-2 now cast shadows properly
+
+
 # Apotos Adventure Pack 3.0.2
 
 - Added Act 2 with Generations style layout at the request of the leader
