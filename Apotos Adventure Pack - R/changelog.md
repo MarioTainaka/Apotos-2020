@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 3.0.4
+
+- For some reasons setdata_sound.xml at #pam000 was reverted to the old one. The problem is fixed now
+
+
 ## Apotos Adventure Pack 3.0.3
 
 - ThornBalls in Act 1-2 now cast shadows properly
