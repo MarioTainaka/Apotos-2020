@@ -1,9 +1,24 @@
-# Apotos Adventure Pack 3.0.3
+
+## Apotos Adventure Pack 4.0
 
 -Added New Signboard. This is the FINAL update for the main branch.
 
 
 ## Apotos Adventure Pack 3.0.2
+
+
+## Apotos Adventure Pack 3.0.4
+
+- For some reasons setdata_sound.xml at #pam000 was reverted to the old one. The problem is fixed now
+
+
+## Apotos Adventure Pack 3.0.3
+
+- ThornBalls in Act 1-2 now cast shadows properly
+
+
+## Apotos Adventure Pack 3.0.2
+
 
 - Added Act 2 with Generations style layout at the request of the leader
 
