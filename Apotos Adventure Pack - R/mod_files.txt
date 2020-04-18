@@ -26,6 +26,8 @@ add #euc200.ar.00
 add #euc200.arl
 add #pam000.ar.00
 add #pam000.arl
+add table.ar.00
+add table.arl
 add Languages/English/Loading.ar.00
 add Languages/English/Loading.arl
 add Languages/English/pam000.ar.00
@@ -34,6 +36,7 @@ add Languages/English/StageGate.ar.00
 add Languages/English/StageGate.arl
 add Languages/English/SystemCommon.ar.00
 add Languages/English/SystemCommon.arl
+
 
 
 
