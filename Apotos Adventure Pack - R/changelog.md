@@ -1,10 +1,17 @@
+## Apotos Adventure Pack 4.3.3
+
+- Restored "Author" section in mod.ini
+
+
 ## Apotos Adventure Pack 4.3.2
 
 - Updated Credits board
 
+
 ## Apotos Adventure Pack 4.3.1
 
 - Fixed ID 23088's triggerList in Act 1-2 [BOTH]
+
 
 ## Apotos Adventure Pack 4.3
 
