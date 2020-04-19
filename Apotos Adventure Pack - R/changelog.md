@@ -1,18 +1,22 @@
+## Apotos Adventure Pack 4.3
+
+- Updated the introduction text (after clearing Act 1) to match with current mod recommendation.
+
+
 ## Apotos Adventure Pack 4.2
 
--Added Voice Limit Group To 420_EUC.csb and Se_Object_Myk_Sonic.csb.
--Instanced Some Stuff.
+- Added Voice Limit Group To 420_EUC.csb and Se_Object_Myk_Sonic.csb.
+- Instanced Some Stuff.
+
 
 ## Apotos Adventure Pack 4.1
--Beta Sound Fix For The Music Dying While Keeping Ambs Intact(Not Finished Only Act 1 And Hub And OBJ Points Work As Intended For Now, Will Fix On Monday)
+
+- Beta Sound Fix For The Music Dying While Keeping Ambs Intact(Not Finished Only Act 1 And Hub And OBJ Points Work As Intended For Now, Will Fix On Monday)
 
 
 ## Apotos Adventure Pack 4.0
 
--Added New Signboard. This is the FINAL update for the main branch.
-
-
-## Apotos Adventure Pack 3.0.2
+- Added New Signboard.
 
 
 ## Apotos Adventure Pack 3.0.4

@@ -36,11 +36,3 @@ add Languages/English/StageGate.ar.00
 add Languages/English/StageGate.arl
 add Languages/English/SystemCommon.ar.00
 add Languages/English/SystemCommon.arl
-
-
-
-
-
-
-
-
