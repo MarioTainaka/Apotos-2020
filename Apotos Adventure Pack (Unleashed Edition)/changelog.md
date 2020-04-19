@@ -1,3 +1,10 @@
+## Apotos Unleashed Edition 2.0.6
+
+- Added Voice Limit Group To 420_EUC.csb and Se_Object_Myk_Sonic.csb.
+- Instanced Some Stuff.
+
+
+
 ## Apotos Unleashed Edition 2.0.5
 
 - ThornBalls in Act 1-2 now cast shadows properly
