@@ -1,3 +1,6 @@
+## Apotos Adventure Pack 4.1
+-Beta Sound Fix For The Music Dying While Keeping Ambs Intact(Not Finished Only Act 1 And Hub And OBJ Points Work As Intended For Now, Will Fix On Monday)
+
 
 ## Apotos Adventure Pack 4.0
 
