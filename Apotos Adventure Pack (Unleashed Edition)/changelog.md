@@ -1,3 +1,6 @@
+## Apotos Unleashed Edition 2.0.7
+-Fixed ID 23088's triggerList in Act 1-2 [BOTH]
+
 ## Apotos Unleashed Edition 2.0.6
 
 - Added Voice Limit Group To 420_EUC.csb and Se_Object_Myk_Sonic.csb.

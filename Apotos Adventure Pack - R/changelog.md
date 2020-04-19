@@ -1,3 +1,7 @@
+## Apotos Adventure Pack 4.3.1
+
+Fixed ID 23088's triggerList in Act 1-2 [BOTH]
+
 ## Apotos Adventure Pack 4.3
 
 - Updated the introduction text (after clearing Act 1) to match with current mod recommendation.
