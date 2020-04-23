@@ -1,3 +1,7 @@
+## Apotos Unleashed Edition 2.0.9
+
+- Thorn Spring Sound Fix (The Sound Should Now Be The Modern One)
+
 ## Apotos Unleashed Edition 2.0.8
 
 - Updated Credits board

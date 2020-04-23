@@ -1,3 +1,6 @@
+## Apotos Adventure Pack 4.3.4
+- Thorn Spring Sound Fix (The Sound Should Now Be The Modern One)
+
 ## Apotos Adventure Pack 4.3.3
 
 - Restored "Author" section in mod.ini
