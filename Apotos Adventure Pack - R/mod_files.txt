@@ -12,6 +12,8 @@ add etfdoor.ar.00
 add etfdoor.arl
 add MYK_Sound.ar.00
 add MYK_Sound.arl
+add pam000.ar.00
+add pam000.arl
 add #cte200.ar.00
 add #cte200.arl
 add #ghz100.ar.00

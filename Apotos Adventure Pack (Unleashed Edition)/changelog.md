@@ -1,3 +1,9 @@
+## Apotos Unleashed Edition 2.1.0
+
+- Added custom JumpPole values to mimic Unleashed for Act 1-2
+- JumpSelector in Act 2 & Act 2-2 now cast shadows properly
+
+
 ## Apotos Unleashed Edition 2.0.9
 
 - Thorn Spring Sound Fix (The Sound Should Now Be The Modern One)

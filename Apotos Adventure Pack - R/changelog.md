@@ -1,5 +1,14 @@
+## Apotos Adventure Pack 4.3.5
+
+- Added custom JumpPole values to mimic Unleashed for Act 1-2
+- Greatly reduced pam000.ar.00 file size, from 45MB to 8MB
+- Removed non-existent files listed in bb.ini & bb3.ini
+
+
 ## Apotos Adventure Pack 4.3.4
+
 - Thorn Spring Sound Fix (The Sound Should Now Be The Modern One)
+
 
 ## Apotos Adventure Pack 4.3.3
 
