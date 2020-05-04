@@ -1,3 +1,11 @@
+## Apotos Adventure Pack 4.3.7
+
+-Added Final Instanced CSB.
+-Fixed Broken OBJ Base Sounds Left Overs From Sonic Unleashed In Act 2 and 2-2.
+-Final CSB Code Optimization.
+
+
+
 ## Apotos Adventure Pack 4.3.6
 
 - Edited all stage archives to use with the new BGM CPK/CSB.
