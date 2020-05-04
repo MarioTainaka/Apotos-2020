@@ -1,3 +1,8 @@
+## Apotos Unleashed Edition 2.1.1
+
+- Edited all stage archives to use with the new BGM CPK/CSB.
+
+
 ## Apotos Unleashed Edition 2.1.0
 
 - Added custom JumpPole values to mimic Unleashed for Act 1-2

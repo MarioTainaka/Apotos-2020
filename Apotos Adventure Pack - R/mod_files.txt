@@ -10,6 +10,8 @@ add cmn200.ar.00
 add cmn200.arl
 add etfdoor.ar.00
 add etfdoor.arl
+add ghz_cmn.ar.00
+add ghz_cmn.arl
 add MYK_Sound.ar.00
 add MYK_Sound.arl
 add pam000.ar.00

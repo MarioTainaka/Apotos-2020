@@ -1,3 +1,10 @@
+## Apotos Adventure Pack 4.3.6
+
+- Edited all stage archives to use with the new BGM CPK/CSB.
+- Greatly reduced ghz_cmn.ar.00 file size, from 76MB to 30MB.
+- Added high-res textures from beta SU build, applying to pam000 for GitHub. The rest will be updated manually.
+
+
 ## Apotos Adventure Pack 4.3.5
 
 - Added custom JumpPole values to mimic Unleashed for Act 1-2
