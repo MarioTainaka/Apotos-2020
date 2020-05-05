@@ -1,10 +1,3 @@
-## Apotos Unleashed Edition 2.1.2
-
--Added Final Instanced CSB.
--Fixed Broken OBJ Base Sounds Left Overs From Sonic Unleashed In Act 2 and 2-2.
--Final CSB Code Optimization.
-
-
 ## Apotos Unleashed Edition 2.1.1
 
 - Edited all stage archives to use with the new BGM CPK/CSB.
