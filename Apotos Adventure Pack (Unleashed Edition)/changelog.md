@@ -1,3 +1,8 @@
+## Apotos Unleashed Edition 2.1.3
+
+- Redid CSB Instancing. Now Sounds Should No Longer Break. Sorry about that.
+- Fixed Broked OBJ Base Sound Objects One Final Time.
+
 ## Apotos Unleashed Edition 2.1.2
 
 - Updated score rank to reduce difficulty. You still need to practice to get an S rank however.

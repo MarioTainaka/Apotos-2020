@@ -1,3 +1,9 @@
+## Apotos Adventure Pack 4.3.9
+
+- Redid CSB Instancing. Now Sounds Should No Longer Break. Sorry about that.
+- Fixed Broked OBJ Base Sound Objects One Final Time.
+
+
 ## Apotos Adventure Pack 4.3.8
 
 - Updated score rank to reduce difficulty. You still need to practice to get an S rank however.
