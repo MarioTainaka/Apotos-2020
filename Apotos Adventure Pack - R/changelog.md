@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 4.3.7
+
+- Fixed ghz_cmn by adding missing files that caused Act 4 to crash.
+- Every geometry in Packed folder will also receive high-res textures. They will be updated manually.
+
 ## Apotos Adventure Pack 4.3.6
 
 - Edited all stage archives to use with the new BGM CPK/CSB.
