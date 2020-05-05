@@ -1,6 +1,7 @@
 ## Apotos Unleashed Edition 2.1.2
 
 - Updated score rank to reduce difficulty. You still need to practice to get an S rank however.
+- Fences near Act 1-2 entrance have been removed.
 
 
 ## Apotos Unleashed Edition 2.1.1
