@@ -1,3 +1,8 @@
+## Apotos Unleashed Edition 2.1.2
+
+- Updated score rank to reduce difficulty. You still need to practice to get an S rank however.
+
+
 ## Apotos Unleashed Edition 2.1.1
 
 - Edited all stage archives to use with the new BGM CPK/CSB.
