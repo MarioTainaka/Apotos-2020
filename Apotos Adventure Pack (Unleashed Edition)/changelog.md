@@ -1,7 +1,13 @@
+## Apotos Unleashed Edition 2.1.4
+
+- Changed level design in some section in Act 2-2 per Mario Tainaka's request.
+
+
 ## Apotos Unleashed Edition 2.1.3
 
 - Redid CSB Instancing. Now Sounds Should No Longer Break. Sorry about that.
 - Fixed Broked OBJ Base Sound Objects One Final Time.
+
 
 ## Apotos Unleashed Edition 2.1.2
 

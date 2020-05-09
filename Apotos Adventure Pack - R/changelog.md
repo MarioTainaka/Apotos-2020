@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 4.4.0
+
+- Changed level design in some sections in Act 2-2 per Mario Tainaka's request.
+
+
 ## Apotos Adventure Pack 4.3.9
 
 - Redid CSB Instancing. Now Sounds Should No Longer Break. Sorry about that.
