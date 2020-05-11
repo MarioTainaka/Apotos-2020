@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 4.4.1
+
+- Fixed missing platform in Act 2 by adding the model file back. This will be the final update of this mod.
+
+
 ## Apotos Adventure Pack 4.4.0
 
 - Changed level design in some sections in Act 2-2 per Mario Tainaka's request.
